@@ -1,0 +1,25 @@
+{
+  "name": "rabb.it-clone",
+  "version": "1.0.0",
+  "description": "A simple node app that clones the basic features of www.rabb.it",
+  "main": "stream.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gibigbig/Rabb.it-Clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gibigbig/Rabb.it-Clone/issues"
+  },
+  "homepage": "https://github.com/Gibigbig/Rabb.it-Clone#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "socket.io": "^2.2.0"
+  }
+}
